@@ -1,1 +1,1 @@
-alert("Yugandhar");
+console.log("Being Zero")
