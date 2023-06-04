@@ -16,9 +16,9 @@
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: black;
+  background-color: white;
   border-radius: 4px;
-  color: white;
+  color: black;
 }
 .topnav a.active {
   background-color: #04AA6D;
