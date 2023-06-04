@@ -1,5 +1,5 @@
 .topnav {
-  background-color: white;
+  background-color: #333;
   border-radius: 7px;
   overflow: hidden;
   border: 5px solid;
@@ -8,7 +8,7 @@
 }
 .topnav a {
   float: left;
-  color: black;
+  color: white;
   text-align: center;
   font-weight: bold;
   padding: 14px 16px;
@@ -21,7 +21,7 @@
   color: white;
 }
 .topnav a.active {
-  background-color: #2687F8;
+  background-color: #04AA6D;
   border-radius: 4px;
   color: white;
   font-weight: bold;
