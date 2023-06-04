@@ -1,5 +1,5 @@
 .topnav {
-  background-color: #333;
+  background-color: #04AA6D;
   border-radius: 7px;
   overflow: hidden;
   border: 3px solid;
@@ -17,6 +17,7 @@
 }
 .topnav a:hover {
   background-color: white;
+  width: 30%;
   border-radius: 4px;
   color: black;
 }
