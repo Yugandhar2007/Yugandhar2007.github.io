@@ -19,11 +19,9 @@
   color: white;
 }
 .center{
+  width: 70%;
   margin-left: auto;
   margin-right: auto;
-}
-.table{
-  width: 70%;
 }
 th {
   background-color: #04AA6D;
