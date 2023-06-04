@@ -1,8 +1,8 @@
 .topnav {
-  background-color: #333;
+  background-color: #0E86D4;
   border-radius: 7px;
   overflow: hidden;
-  border: 3px solid orange;
+  border: 3px solid ;
   border-radius: 7px;
   padding: 5px;
 }
@@ -17,11 +17,11 @@
 }
 .topnav a:hover {
   background-color: #ddd;
-  border-radius: 7px;
+  border-radius: 4px;
   color: black;
 }
 .topnav a.active {
-  background-color: orange;
+  background-color: whitesmoke;
   border-radius: 4px;
   color: white;
   font-weight: bold;
