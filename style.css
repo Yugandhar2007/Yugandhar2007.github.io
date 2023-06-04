@@ -17,7 +17,6 @@
 }
 .topnav a:hover {
   background-color: white;
-  border: solid #333;
   border-radius: 4px;
   color: black;
 }
