@@ -1,8 +1,8 @@
 .topnav {
-  background-color: #0E86D4;
+  background-color: #333;
   border-radius: 7px;
   overflow: hidden;
-  border: 4px solid ;
+  border: 3px solid;
   border-radius: 7px;
   padding: 5px;
 }
@@ -16,12 +16,12 @@
   font-size: 17px;
 }
 .topnav a:hover {
-  background-color: #ddd;
+  background-color: white;
   border-radius: 4px;
   color: black;
 }
 .topnav a.active {
-  background-color: whitesmoke;
+  background-color: white;
   border-radius: 4px;
   color: black;
   font-weight: bold;
