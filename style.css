@@ -8,6 +8,9 @@ th {
 tr{
   text-align: center;
 }
+th, td {
+  padding: 15px;
+}
 h2{
     color: blue;
 }
