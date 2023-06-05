@@ -3,7 +3,7 @@
 }
 .card{
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    width: 28.5%;
+    width: 29%;
     padding-left: 10px;
     padding-top: 10px;
     padding-bottom: 10px;
@@ -26,6 +26,7 @@
     margin-bottom: 0;
 }
 .toggle{
+    margin-top: 20px;
     background-color: #04AA6D;
     border-radius: 12px;
     border: 2px solid black;
