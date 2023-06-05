@@ -29,8 +29,9 @@
 }
 .toggle{
     margin-top: 20px;
+    font-weight: bold;
     background-color: #04AA6D;
-    border-radius: 12px;
+    border-radius: 7px;
     border: 2px solid black;
     color: white;
     padding: 15px 32px;
